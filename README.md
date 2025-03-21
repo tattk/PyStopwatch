@@ -15,8 +15,8 @@
 ---
 
 ## 📸 UIスクリーンショット
-![screenshot](screenshots/ui1.png)
-![screenshot](screenshots/ui2.png)
+![screenshot](screenshots/ui1.jpg)
+![screenshot](screenshots/ui2.jpg)
 
 ---
 
