@@ -15,8 +15,8 @@
 ---
 
 ## 📸 UIスクリーンショット
-![screenshot](screenshots/ui1.jpg)
-![screenshot](screenshots/ui2.jpg)
+![screenshot](screenshots/ui1.png)
+![screenshot](screenshots/ui2.png)
 
 ---
 
@@ -73,5 +73,6 @@ pyinstaller --windowed --onedir --name "PyStopwatch" \
 
 MIT License
 
-学習時間の計測用に必要十分の機能を持ったシンプルなストップウォッチです。よろしければ GitHub に Star や Issue をお願いします ✨
+学習時間の計測用に必要十分な機能を持ったシンプルなストップウォッチです。  
+よろしければ GitHub に Star や Issue をお願いします ✨
 
